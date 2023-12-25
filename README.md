@@ -16,7 +16,7 @@ align="right" alt="Proggramer" width="400" src="https://camo.githubusercontent.c
 <a href="https://linkedin.com/in/nihad karimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihad karimov" height="30" width="40" /></a>
 <a href="https://instagram.com/karimovvnihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karimovvnihad" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kermovnihad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kermovnihad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nihad karimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nihad karimov" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kermovnihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nihad karimov" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/kermovnihad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kermovnihad" height="30" width="40" /></a>
 </p>
 
